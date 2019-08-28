@@ -9,9 +9,9 @@ REM ****************************************************************
 REM *********************************************
 REM * Set paths to your cloned OPT repositories *
 REM *********************************************
-SET "OptClientRepoDir=n:\OPT-Repos\OPT-Client-Mod\"
-SET "OptServerRepoDir=n:\OPT-Repos\OPT-Server-Mod\"
-SET "OptMissionRepoDir=n:\OPT-Repos\OPT-Mission\"
+SET "OptClientRepoDir=C:\Users\Speck\Documents\GitHub\OPT-Client-Mod"
+SET "OptServerRepoDir=C:\Users\Speck\Documents\GitHub\OPT-Mod"
+SET "OptMissionRepoDir=C:\Users\Speck\Documents\GitHub\OPT-Tools"
 
 REM ************************************************
 REM * Set active mission in OPT-Mission repository *
@@ -21,14 +21,14 @@ SET "OptMissionName=OPT-TestMission.Altis"
 REM *************************************************************************
 REM * Set path to a directory where you securely store your OPT private key *
 REM *************************************************************************
-SET "OptKeysDir=n:\OPT-Repos\OPT-Keys\"
+SET "OptKeysDir=C:\Users\Speck\Documents\GitHub\OPT-Keys\"
 
 REM ******************
 REM * Set ArmA paths *
 REM ******************
 SET "ArmaGameDir=C:\Program Files (x86)\Steam\steamapps\common\Arma 3\"
 SET "ArmaMissionPboDir=C:\Program Files (x86)\Steam\steamapps\common\Arma 3\MPMissions\"
-SET "ArmaMissionSourceDir=c:\Users\xxx\Documents\Arma 3\mpmissions\"
+SET "ArmaMissionSourceDir=C:\Users\Speck\Documents\Arma 3 - Other Profiles\Protox\missions"
 
 REM ************************
 REM * Set ArmA executables *
